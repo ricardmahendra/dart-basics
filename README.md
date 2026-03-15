@@ -16,7 +16,7 @@ Modul Mata Kuliah Pemrograman Mobile | Teknik Informatika UNISNU JEPARA | Akhmad
 > 5. Buat branch baru `dev` dan gunakan sebagai branch yang aktif.
 >
 >    ```bash
->    git checkout -b dev
+>   
 >    ```
 >
 > 6. Mulai praktek, selesai praktek lakukan commit dengan label sesuai materi yang dikerjakan.
